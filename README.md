@@ -1,9 +1,9 @@
 <h2 align="center">
-  Stopwatch Web Application
+  Gaming Console Hub Landing Page
 </h2>
 
 <div align="center">
-  <img alt="Stopwatch Demo" src="./Images/bg.png" />
+  <img alt="Gaming Console Hub Demo" src="./Images/bg.png" />
 </div>
 
 ## Table of Contents
@@ -15,24 +15,24 @@
 
 ## Introduction
 
-Welcome to the Stopwatch Web Application! This application allows users to accurately measure and record time intervals. It's built using HTML, CSS, and JavaScript, providing an interactive and user-friendly experience.
+Welcome to the Gaming Console Hub Landing Page! This landing page showcases the latest gaming consoles, providing users with information about various gaming options. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
 
 ## Features
 
-- Start, pause, and reset functionality for the stopwatch.
-- Lap tracking to record time intervals.
-- Responsive design for seamless use on different devices.
+- Informative sections introducing the landing page, including Home, About, Menu (showcasing console options), Services, Connect, and Contact.
+- Responsive design ensuring seamless access across different devices.
+- Dark mode functionality for user preference.
 
 ## Usage
 
-To use the stopwatch:
+To explore the Gaming Console Hub Landing Page:
 
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your web browser.
-3. Use the buttons to start, pause, and reset the stopwatch.
-4. Click the "Lap" button to record lap times.
+3. Navigate through different sections using the provided links in the navbar.
+4. Experience the interactive features such as the dark mode toggle and scroll reveal animations.
 
-Feel free to explore the code and customize the stopwatch according to your needs!
+Feel free to customize the landing page according to your preferences or use it as a template for your own projects!
 
 ## License
 
@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Show your support
 
-If you find this project helpful, consider giving it a ⭐️ on GitHub!
+If you find this landing page helpful or inspiring, consider giving it a ⭐️ on GitHub!
