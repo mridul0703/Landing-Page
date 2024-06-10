@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Gaming Console Hub Demo" src="./Images/bg.png" />
+  <img alt="Gaming Console Hub Demo" src="./bg.png" />
 </div>
 
 ## Table of Contents
